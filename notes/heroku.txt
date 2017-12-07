@@ -1,0 +1,3 @@
+heroku create
+git remote add heroku 2ndUrl
+git push heroku master
